@@ -5,7 +5,7 @@ Travelling salesman problem
 
 +analise complexity and performance
 
-1.Glouton (nearest city)
+1.Greedy Algorithm (nearest city)
 
 2.Genetic Algorithm
 
